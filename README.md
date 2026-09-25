@@ -7,7 +7,7 @@ Regression analysis and KNN regression on the UCI Combined Cycle Power Plant dat
 ```
 .
 ├── data/
-│   └── combined_cycle_power_plant/
+│   └── CCPP/
 │       ├── Folds5x2_pp.xlsx
 │       └── Readme.txt
 ├── notebook/

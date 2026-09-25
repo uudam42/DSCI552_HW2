@@ -23,4 +23,4 @@ cd notebook
 jupyter notebook Agudanmu_Danmu_HW2.ipynb
 ```
 
-The notebook reads the data with the relative path `../data/combined_cycle_power_plant/Folds5x2_pp.xlsx`, so it should be run from the `notebook/` folder. Only Sheet 1 of the workbook is used.
+The notebook reads the data with the relative path `../data/CCPP/Folds5x2_pp.xlsx`, so it should be run from the `notebook/` folder. Only Sheet 1 of the workbook is used.

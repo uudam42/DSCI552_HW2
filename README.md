@@ -11,7 +11,7 @@ Regression analysis and KNN regression on the UCI Combined Cycle Power Plant dat
 │       ├── Folds5x2_pp.xlsx
 │       └── Readme.txt
 ├── notebook/
-│   └── Agudanmu_Fnu_HW2.ipynb
+│   └── Agudanmu_Danmu_HW2.ipynb
 └── requirements.txt
 ```
 

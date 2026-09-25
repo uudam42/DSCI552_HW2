@@ -20,7 +20,7 @@ Regression analysis and KNN regression on the UCI Combined Cycle Power Plant dat
 ```bash
 pip install -r requirements.txt
 cd notebook
-jupyter notebook Agudanmu_Fnu_HW2.ipynb
+jupyter notebook Agudanmu_Danmu_HW2.ipynb
 ```
 
 The notebook reads the data with the relative path `../data/combined_cycle_power_plant/Folds5x2_pp.xlsx`, so it should be run from the `notebook/` folder. Only Sheet 1 of the workbook is used.
